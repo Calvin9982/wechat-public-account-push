@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: '88bca0e75bf2be3abae2d816148c245d',
 
   PROVINCE: '广东',
-  CITY: '惠州',
+  CITY: '塔什干',
 
   USERS: [
     {
@@ -41,9 +41,9 @@ const USER_CONFIG = {
       ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
-        // 在一起的日子
+        // 正式在一起
         { keyword: 'love_day', date: '2025-07-04' },
-        // 结婚纪念日
+        // 认识多少天
         { keyword: 'marry_day', date: '2022-09-09' },
       ],
     },
